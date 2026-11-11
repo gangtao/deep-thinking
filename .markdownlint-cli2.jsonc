@@ -1,0 +1,15 @@
+{
+  // Markdown lint for a Chinese prose skill repo. Run: npx markdownlint-cli2
+  "globs": ["**/*.md", "!node_modules"],
+  "config": {
+    "default": true,
+    // Chinese prose is written one paragraph per line; no hard wrapping.
+    "MD013": false,
+    // asking-right-questions.md numbers 1–11 across section headings on purpose.
+    "MD029": false,
+    // Separate adjacent blockquotes with a blank line (books.md quote pairs).
+    "MD028": false,
+    // Compact pipe tables are fine.
+    "MD060": false
+  }
+}
