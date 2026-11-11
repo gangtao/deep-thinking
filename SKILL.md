@@ -1,6 +1,6 @@
 ---
 name: deep-thinking
-description: 写评论、分析或深度文章时使用，或需要审视一个观点、一条新闻、一篇论文、一场讨论、一组数据能不能站住时使用。
+description: 写评论、分析或深度文章时使用，或需要审视一个观点、一条新闻、一篇论文、一场讨论、一组数据能不能站住时使用。Use when writing commentary, analysis, or long-form essays, or when examining whether a claim, news item, paper, discussion thread, or dataset holds up.
 ---
 
 # 深度思考：七本书融成的一种思考方式
