@@ -40,3 +40,7 @@ npx markdownlint-cli2
 ```
 
 Changes to the writing rules are verified by having agents write the same article from the same source material with and without the skill, then comparing the results.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
